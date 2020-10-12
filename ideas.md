@@ -16,6 +16,9 @@
 - Password Protected Pages 
 - Admin / Dashboard Interfaces w/User, Content Management (REST)
 - Application (SPA)
+- Chat Apps / Chat Bots
+- Web Scrapers
+- Games
 
 ## Widgets and Enhancements
 
@@ -38,6 +41,7 @@
 - Utilities & CSS Classes
 - SEO & Page Speed Tools
 - Accessbility Tools
+- Finance Tools / Calculators / Trackers
 
 ## Themes & Designs
 
