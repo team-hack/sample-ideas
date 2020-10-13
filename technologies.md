@@ -1,13 +1,21 @@
-# Some of these awesome technologies:
+# Technologies & Methodologies We Can Use:
 
+- Photoshop, Illustrator, Sketch, Balsmic, XD
+- JIRA, Trello, SCRUM, Agile
 - HTML & CSS / SASS / Styled Components
+- CSS3, CSS Grids, Flexbox
+- Vanilla JS, DOM, JQuery
+- Github
+- Accessibility
 - React / Vue / Angular
+- React Router, Spring, Lazy
 - Redux / MobX / MVC
-- Mongo / DynamoDB / postgreSQL
+- Mongo / DynamoDB / postgreSQL / SQL / mySQL
 - Next.js
 - Node.js / Express
 - Gatsby / Static Site Gens
-- Karma / Jest / Chai / Mocha
+- Karma / Jest / Chai / Mocha for Unit & Integration Tests
+- Passport.js
 - Docker / Microservices
 - Cloud / Serverless (AWS/Azure/GCP)
 - React Native
