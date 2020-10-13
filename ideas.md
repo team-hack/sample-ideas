@@ -12,13 +12,18 @@
     - Locations / Services Pages
 - Master / Detail Pages
 - Blog Page
-- Login / Logout
+- Shopping Pages, Shopping Cart
+- Sign Up Form
+- Login / Logout (w/Session, Cookies and/or JWT)
 - Password Protected Pages 
 - Admin / Dashboard Interfaces w/User, Content Management (REST)
 - Application (SPA)
+- Web API (RESTful)
+- Data / Data Science Tool
 - Chat Apps / Chat Bots
 - Web Scrapers
 - Games
+- Software as a Service (SaaS), Platform as a Service (PaaS)
 
 ## Widgets and Enhancements
 
@@ -42,6 +47,8 @@
 - SEO & Page Speed Tools
 - Accessbility Tools
 - Finance Tools / Calculators / Trackers
+- Polls and Quizzes
+
 
 ## Themes & Designs
 
