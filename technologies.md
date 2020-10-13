@@ -5,7 +5,7 @@
 - HTML & CSS / SASS / Styled Components
 - CSS3, CSS Grids, Flexbox
 - Vanilla JS, DOM, JQuery
-- Github
+- Git & Github
 - Accessibility
 - React / Vue / Angular
 - React Router, Spring, Lazy
