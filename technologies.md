@@ -29,4 +29,4 @@
 - Ruby on Rails
 - Java Spring
 - Data Structures & Algorithms (Big O, Performance)
-- [Design Patterns](https://github.com/vijayxtreme/questions-asked/blob/main/questions/design-patterns.md
+- Design Patterns: https://github.com/vijayxtreme/questions-asked/blob/main/questions/design-patterns.md
