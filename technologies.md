@@ -1,23 +1,26 @@
 # Technologies & Methodologies We Can Use:
 
-- Photoshop, Illustrator, Sketch, Balsmic, XD
-- JIRA, Trello, SCRUM, Agile
+- Photoshop, Illustrator, Sketch, Figma, XD
+- SCRUM, Agile
 - HTML & CSS / SASS / Styled Components
 - CSS3, CSS Grids, Flexbox
-- Vanilla JS, DOM, JQuery
-- Git & Github
-- Accessibility
+- Material UI / Bootstrap / React Bootstrap / Tailwind / Bulma / Tachyons 
+- Vanilla JS, DOM, JQuery, Underscore, LoDash
+- Accessibility, a11y, MDX, Storybook
 - React / Vue / Angular
-- React Router, Spring, Lazy
-- Redux / MobX / MVC
-- Mongo / DynamoDB / postgreSQL / SQL / mySQL
-- Next.js
+- React Router
+- Redux, Saga / MobX / MVC
+- Mongo / DynamoDB / postgreSQL / SQL / mySQL / GraphQL
 - Node.js / Express
-- Gatsby / Static Site Gens
-- Karma / Jest / Chai / Mocha for Unit & Integration Tests
-- Passport.js
-- Docker / Microservices
+- REST APIs
+- JWT / Tokens / Cookies / Sessions / Passport.JS
+- Gatsby / Next.js
+- Karma / Jest / Chai / Mocha, Cypress for Unit, Integration and End-To-End Testing
+- Docker / Kubernetes / Microservices
 - Cloud / Serverless (AWS/Azure/GCP)
 - React Native
 - iOS / Swift
-- Laravel / Ruby / Wordpress / Drupal / Django
+- PHP Laravel / Wordpress / Drupal / Symfony 
+- Python Django / R Studio / Hugo
+- Ruby on Rails
+- Java Spring
