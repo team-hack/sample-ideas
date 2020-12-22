@@ -6,14 +6,18 @@
 - CSS3, CSS Grids, Flexbox
 - Material UI / Bootstrap / React Bootstrap / Tailwind / Bulma / Tachyons 
 - Vanilla JS, DOM, JQuery, Underscore, LoDash
-- Accessibility, a11y, MDX, Storybook
+- Accessibility, a11y, MDX, Storybook, ReachUI
 - React / Vue / Angular
+- TypeScript
 - React Router
-- Redux, Saga / MobX / MVC
-- Mongo / DynamoDB / postgreSQL / SQL / mySQL / GraphQL
+- React Memo
+- Redux, Saga / MobX / Relay / MVC
+- Mongo / DynamoDB / postgreSQL / SQL / mySQL / GraphQL & Apollo
 - Node.js / Express
 - REST APIs
 - JWT / Tokens / Cookies / Sessions / Passport.JS
+- Internationalization
+- SSR vs SSG vs CSR
 - Gatsby / Next.js
 - Karma / Jest / Chai / Mocha, Cypress for Unit, Integration and End-To-End Testing
 - Docker / Kubernetes / Microservices
@@ -24,3 +28,5 @@
 - Python Django / R Studio / Hugo
 - Ruby on Rails
 - Java Spring
+- Data Structures & Algorithms (Big O, Performance)
+- Design Patterns
